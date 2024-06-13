@@ -3,7 +3,7 @@
 
 
 ## Description
-This is a README file meant to be used to make a professional README file
+This a file meant to be used to generate a professional README 
 
 ## Table of Contents
 - [Description](#description)
@@ -16,22 +16,22 @@ This is a README file meant to be used to make a professional README file
 - [Quesions](#questions)
 
 ## Installation
-There is no need for installation on this README file
+Simply open javascript, create questions and functions to create README file, and use node index.js to activate and generate README
 
 ## Usage
-Simply open javascript, create questions and functions to create README file, and use node
+Open VS Code and if needed, use README generator to create new README for any project
 
 ## License
-'MIT'
+MIT
 
 ## Contributing
-Tutor/w3schools
+Max C, Tutor
 
 
 ## Tests
-This is meant for any tests used to make sure project is ready and able to be deployed
+N/A
 
 ## Questions
 Reach out with any questions you may have.
-Github: Maxxxc1
+Github: maxxxc1
 Email: alexch10@yahoo.com
